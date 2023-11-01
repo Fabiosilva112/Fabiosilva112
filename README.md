@@ -1,10 +1,21 @@
 ## Olá, Sejam bem vindos ao meu perfil do Git-Hub 👋
 
-Sou o Fabio! Programador Front-end, atualmente venho realizando projetos com:
+Sou o Fabio! Programador Front-end.
 
-- HTML
+🎓 Formado em Análise e Desenvolvimento de Sistemas (ADS)
+
+💻 Habilidades:
+- JavaScript
 - CSS
-- JS
+- HTML
+- Git
+- React
+
+🚀 Apaixonado por desenvolvimento web e criação de interfaces intuitivas e atraentes.
+
+🔗 Confira meu portfólio em https://fabiosilvadev12.netlify.app/ para ver alguns dos meus projetos!
+
+📫 Vamos colaborar? Entre em contato via fabiosilvadev@gmail.com ou https://www.linkedin.com/in/fabio-da-silva-salustiano/ .
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabiosilva112&show_icons=true&theme=radical)
 
