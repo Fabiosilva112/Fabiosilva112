@@ -43,7 +43,7 @@ Sistema completo para gestão de clientes e envio automático de mensagens.
 **Tecnologias utilizadas:**
 Node.js | Express | MongoDB | React | Twilio  
 
-🔗 *Em breve link do projeto online*
+🔗 https://aniversariante-studio-beauty.netlify.app/
 
 ---
 
