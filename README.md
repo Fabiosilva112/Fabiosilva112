@@ -1,40 +1,85 @@
-## Olá, Sejam bem vindos ao meu perfil do Git-Hub 👋
+# Olá, eu sou Fabio Salustiano 👋
 
-Sou o Fabio! Programador Front-end.
+💻 Desenvolvedor Full Stack em evolução, com experiência em TI, automação de sistemas e desenvolvimento de aplicações reais.  
+🎖️ 8 anos de atuação no Exército Brasileiro nas áreas de Recursos Humanos e Tecnologia da Informação.  
+🚀 Em busca de oportunidade **home office** como Desenvolvedor Júnior ou Suporte Técnico.
+🎓 Formado em Análise e Desenvolvimento de Sistemas (ADS).
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas (ADS)
+## 🚀 Sobre mim
 
-💻 Habilidades:
-- JavaScript
-- CSS
-- HTML
-- Git
-- React
+Sou um profissional disciplinado, organizado e focado em resultados, com forte base adquirida no ambiente militar e transição sólida para a área de tecnologia.
 
-🚀 Apaixonado por desenvolvimento web e criação de interfaces intuitivas e atraentes.
+Atualmente desenvolvo aplicações completas (frontend + backend), com foco em automação de processos e soluções práticas para problemas reais.
 
-🔗 Confira meu portfólio em https://fabiosilvadev12.netlify.app/ para ver alguns dos meus projetos!
+Tenho facilidade em aprender novas tecnologias, trabalhar em equipe e me adaptar rapidamente a novos desafios.
 
-📫 Vamos colaborar? Entre em contato via fabiosilvadev@gmail.com ou https://www.linkedin.com/in/fabio-da-silva-salustiano/ .
+## 🛠️ Tecnologias e Ferramentas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabiosilva112&show_icons=true&theme=radical)
+- JavaScript  
+- Node.js  
+- React.js  
+- MongoDB  
+- HTML e CSS  
+- Git e GitHub  
+- APIs REST  
+- Node-cron  
+- Integrações com APIs
 
-## Tecnologias que uso no meu dia
 
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+## 💻 Projeto em Destaque
 
-[![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiosilva112&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
+### 🔥 Sistema de Automação de Clientes com WhatsApp
 
-## Tecnologia que venho estudando
+Sistema completo para gestão de clientes e envio automático de mensagens.
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+**Funcionalidades:**
+- Cadastro de clientes  
+- Dashboard administrativo  
+- Envio automático de mensagens de aniversário 🎉  
+- Reativação de clientes inativos  
+- Integração com WhatsApp  
+- Automação com cron  
 
-## Siga-me
+**Tecnologias utilizadas:**
+Node.js | Express | MongoDB | React | Twilio  
 
-<a href="https://www.instagram.com/fabio_silva127/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://www.linkedin.com/in/fabio-da-silva-salustiano/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+🔗 *Em breve link do projeto online*
+
+---
+
+## 🌐 Portfólio
+
+🔗 https://fabiosilvadev12.netlify.app/
+
+---
+
+## 📫 Contato
+
+📧 fabiosilvadev12@gmail.com
+
+💼 www.linkedin.com/in/fabio-da-silva-salustiano
+
+---
+
+## 🎯 Objetivo
+
+Atuar como Desenvolvedor Full Stack Júnior ou Suporte Técnico em regime remoto, contribuindo com soluções eficientes, automação de processos e crescimento contínuo.
+
+---
+
+## ⚡ Diferenciais
+
+- Disciplina e responsabilidade (background militar)  
+- Experiência prática com projetos reais  
+- Facilidade de aprendizado  
+- Foco em resultados e melhoria contínua  
+
+---
+
+⭐ Se quiser trocar uma ideia ou tiver uma oportunidade, fique à vontade para entrar em contato!
 ##
 Um eterno aprendiz com sede de conhecimento e uma imensa vontade de aprender coisas novas. :wrench:
 
-Um desistente nunca vence e um vencedor nunca desiste. <b>Napoleon Hill</b>.:books:
+Um desistente nunca vence e um vencedor nunca desiste. <b>Napoleon Hill</b>. :books:
 
 
